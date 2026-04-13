@@ -28,7 +28,7 @@ Python, PyTorch, HuggingFace Transformers, PEFT (LoRA), statsmodels, scikit-lear
 
 - `stock_nlp_demo.ipynb` — full pipeline: data preprocessing, model training, evaluation, econometric analysis
 - `run_lora.py` — LoRA fine-tuning script for FinBERT
-- `haggett_dustin_mini-project_news_sentiment.pdf` — IEEE-formatted paper
+- `haggett_dustin_mini-project_news_sentiment.pdf` — final paper
 
 ## Running
 
